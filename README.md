@@ -17,5 +17,6 @@
 - Linux
 
 ## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/elif-sude-top%C3%A7u-2b4922363/
 - Email: elifsudetpcu@gmail.com
+- LinkedIn: https://www.linkedin.com/in/elif-sude-top%C3%A7u-2b4922363/
+- Medium: https://medium.com/@elifsudetpcu
