@@ -2,23 +2,20 @@
 
 <div align="center">
 
-# Hi there, I'm Elif Sude Topçu! 👋
+# Hi, I'm Elif Sude Topçu
 
-### 💻 Computer Engineering Student | Cybersecurity | Data Science & Machine Learning
+###  Computer Engineering Student | Cybersecurity | Data Science & Machine Learning
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Exploring+Machine+Learning;Building+Practical+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
 
-<p>
+<p align="center">
   <a href="https://github.com/elifsudetopcu">
-    <img src="https://img.shields.io/badge/GitHub-Elif%20Sude-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/elif-sude-top%C3%A7u-2b4922363/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@elifsudetpcu">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium" alt="Medium"/>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
 
@@ -143,19 +140,6 @@ A REST API project developed to practice backend development and learn how to ma
 
 ---
 
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/elifsudetopcu">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/elif-sude-top%C3%A7u-2b4922363/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://medium.com/@elifsudetpcu">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-</p>
 
 <div align="center">
 
