@@ -110,7 +110,7 @@ A REST API project developed to practice backend development and learn how to ma
 - **Technologies:** JavaScript, Node.js, Express.js, REST API, JSON, Postman
 - **Features:** CRUD operations, API routing, middleware, task management
 - **Focus:** Backend development, REST principles, and API testing
-- **Repository:** [View Project on GitHub](https://github.com/elifsudetopcu/Gorev-ve-Proje-Yonetim-Sistemi-API-Gelistirme-Projesi)
+- **Repository:** [View Project](https://github.com/elifsudetopcu/Gorev-ve-Proje-Yonetim-Sistemi-API-Gelistirme-Projesi)
 
 ---
 
