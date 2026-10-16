@@ -106,13 +106,14 @@ A React-based dashboard for exploring projects, viewing technologies, and tracki
 - **Live Demo:** [Open DevSpace](https://devspaceprojectmanagementdashboard.netlify.app)
 - **Repository:** [View Project](https://github.com/elifsudetopcu/DevSpace)
 
-### ⚙️ TaskFlow API — Task Management REST API
+### ⚙️ Görev ve Proje Yönetim Sistemi API Geliştirme Projesi
 
-A backend learning project for developing a task management API with standard CRUD operations.
+A REST API project developed to practice backend development and learn how to manage tasks through HTTP requests.
 
-- **Tools:** JavaScript, Node.js, Express.js, Postman
-- **Focus:** REST API design, routing, middleware, CRUD operations
-- **Repository:** Coming soon
+- **Technologies:** JavaScript, Node.js, Express.js, REST API, JSON, Postman
+- **Features:** CRUD operations, API routing, middleware, task management
+- **Focus:** Backend development, REST principles, and API testing
+- **Repository:** [View Project on GitHub](https://github.com/elifsudetopcu/Gorev-ve-Proje-Yonetim-Sistemi-API-Gelistirme-Projesi)
 
 ---
 
