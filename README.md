@@ -1,49 +1,90 @@
-# Hi, I'm Elif Sude Topçu
+<!-- Profile README for elifsudetopcu -->
 
-### Computer Engineering Student | Cybersecurity | Data Science & Machine Learning
+<div align="center">
 
-I'm a third-year Computer Engineering student at Bilecik Şeyh Edebali University. I'm interested in cybersecurity, software development, and data science.
+# Hi there, I'm Elif Sude Topçu! 👋
 
-I enjoy learning new technologies, solving problems, and building projects that help me turn theoretical knowledge into practical skills.
+### 💻 Computer Engineering Student | Cybersecurity | Data Science & Machine Learning
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Exploring+Machine+Learning;Building+Practical+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p>
+  <a href="https://github.com/elifsudetopcu">
+    <img src="https://img.shields.io/badge/GitHub-Elif%20Sude-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elif-sude-top%C3%A7u-2b4922363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@elifsudetpcu">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=for-the-badge&logo=medium" alt="Medium"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Third-year Computer Engineering student
-- 🔐 Interested in cybersecurity, network security, and threat detection
-- 📊 Learning data analysis and machine learning with Python
-- 💻 Building projects in software development and backend technologies
-- 🌱 Continuously improving my technical skills through hands-on projects
+I'm a third-year Computer Engineering student at **Bilecik Şeyh Edebali University**, interested in cybersecurity, software development, data science, and machine learning.
+
+I enjoy learning by building projects, exploring new technologies, and applying what I learn to practical problems.
+
+- 🔐 Interested in **Cybersecurity and Network Security**
+- 🛡️ Exploring **Machine Learning for Threat Detection**
+- 📊 Learning **Data Analysis and Machine Learning**
+- ⚙️ Developing backend applications and REST APIs
+- 🌱 Improving my skills through hands-on projects
 - 🎯 Working towards a career in cybersecurity and software development
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages**
+### 💻 Programming Languages
 
-Python · JavaScript · SQL
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-**Data Science & Machine Learning**
+### 📊 Data Science & Machine Learning
 
-Pandas · NumPy · Scikit-learn · Data Preprocessing · Classification Models
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+</p>
 
-**Web & Backend Development**
+### 🌐 Web & Backend Development
 
-HTML · CSS · React · Node.js · Express.js · REST APIs
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+</p>
 
-**Cybersecurity & Tools**
+### 🔐 Cybersecurity & Developer Tools
 
-Linux · Networking Fundamentals · Git · GitHub · Postman
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛡️ ScanGuard — Machine Learning-Based Network Threat Detection
+### 🛡️ ScanGuard — Network Threat Detection
 
-An academic project focused on exploring network traffic data and developing a machine learning-based approach to network threat detection.
+An academic project focused on network traffic analysis and machine learning-based threat detection.
 
 - **Focus:** Cybersecurity, network traffic analysis, machine learning
 - **Dataset:** CIC-IDS2017
@@ -51,45 +92,72 @@ An academic project focused on exploring network traffic data and developing a m
 
 ### 📊 Loan Prediction — Credit Risk Classification
 
-A machine learning project that explores credit application data and predicts loan approval outcomes using classification models.
+A machine learning project that explores loan application data using classification algorithms.
 
 - **Tools:** Python, Pandas, NumPy, Scikit-learn
 - **Models:** Decision Tree, Random Forest
-- **Repository:** [Machine-Learning](https://github.com/elifsudetopcu/Machine-Learning)
+- **Repository:** [View Project](https://github.com/elifsudetopcu/Machine-Learning/tree/main/Loan-Predict-Project)
 
-### 🌐 DevSpace — Project Management Dashboard
+### 🌐 DevSpace — Project Dashboard
 
-A React-based dashboard for presenting projects, tracking development progress, and displaying project technologies.
+A React-based dashboard for exploring projects, viewing technologies, and tracking development progress.
 
-- **Tools:** React, JavaScript, Bootstrap, CSS
-- **Features:** Project overview, task tracking, progress statistics, LocalStorage
-- **Repository:** [DevSpace](https://github.com/elifsudetopcu/DevSpace)
+- **Tools:** React, JavaScript, Bootstrap, CSS, LocalStorage
+- **Live Demo:** [Open DevSpace](https://devspaceprojectmanagementdashboard.netlify.app)
+- **Repository:** [View Project](https://github.com/elifsudetopcu/DevSpace)
 
 ### ⚙️ TaskFlow API — Task Management REST API
 
-A beginner-friendly backend project focused on building a REST API for task management.
+A backend learning project for developing a task management API with standard CRUD operations.
 
 - **Tools:** JavaScript, Node.js, Express.js, Postman
-- **Focus:** REST principles, CRUD operations, API testing
+- **Focus:** REST API design, routing, middleware, CRUD operations
+- **Repository:** Coming soon
 
 ---
 
-## 📚 Currently Learning
+## 📈 GitHub Statistics
 
-- Cybersecurity fundamentals and network security
-- Data analysis and machine learning
-- Backend development with Node.js and Express.js
-- Building practical projects and improving code quality
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=elifsudetopcu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
 
-## 🤝 Connect With Me
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifsudetopcu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/elif-sude-top%C3%A7u-2b4922363/)
-- 📝 [Medium](https://medium.com/@elifsudetpcu)
-- 💻 [GitHub](https://github.com/elifsudetopcu)
-- 📧 Email: elifsudetpcu@gmail.com
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=elifsudetopcu&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
 
 ---
 
-*Always learning, building, and improving — one project at a time.*
+## 🎯 Current Learning Goals
+
+- Strengthening cybersecurity and networking fundamentals
+- Exploring machine learning applications in cybersecurity
+- Improving Python programming and data analysis skills
+- Building REST APIs and practical software projects
+- Learning through documentation, experimentation, and hands-on practice
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://github.com/elifsudetopcu">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elif-sude-top%C3%A7u-2b4922363/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@elifsudetpcu">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+</p>
+
+<div align="center">
+
+### 💡 Learn. Build. Improve. Repeat. 🚀
+
+</div>
