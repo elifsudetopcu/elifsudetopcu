@@ -94,7 +94,7 @@ A machine learning project that explores loan application data using classificat
 - **Tools:** Python, Pandas, NumPy, Scikit-learn
 - **Models:** Decision Tree, Random Forest
 - **Repository:** [View Project](https://github.com/elifsudetopcu/Machine-Learning/tree/main/Loan-Predict-Project)
-- 
+
 ### 🌐 DevSpace — Project Dashboard
 
 A React-based dashboard for exploring projects, viewing technologies, and tracking development progress.
